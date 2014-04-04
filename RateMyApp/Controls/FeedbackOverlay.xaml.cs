@@ -26,6 +26,9 @@ using System.Windows.Media;
 using RateMyApp.Helpers;
 using RateMyApp.Resources;
 
+
+
+
 namespace RateMyApp.Controls
 {
     /// <summary>
